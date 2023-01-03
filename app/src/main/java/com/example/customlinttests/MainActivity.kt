@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         //illede bark
     }
 
+
     fun ahmet() {
         Log.e("illedebark", "illedebark")
         //before pr commit 1
