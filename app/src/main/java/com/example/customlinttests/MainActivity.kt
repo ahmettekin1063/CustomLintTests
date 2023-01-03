@@ -12,13 +12,12 @@ class MainActivity : AppCompatActivity() {
         ahmet()
     }
 
-    fun bark(){
-        Log.d(TAG, "woof! woof!")
+    fun cat() {
+        Log.d(TAG, "meow! meow!")
     }
 
-    fun ahmet(){
-
-
+    fun ahmet() {
+        Log.e("meow", "meow")
     }
 
     companion object {
