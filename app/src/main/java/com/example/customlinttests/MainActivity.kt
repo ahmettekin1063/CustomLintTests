@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
 
     fun ahmet(){
         Log.e("illedebark", "illedebark")
+        //before pr commit 1
     }
 
     companion object {
