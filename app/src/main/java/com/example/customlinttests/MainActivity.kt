@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
 
     fun cat() {
         Log.d(TAG, "meow! meow!")
+        //nobark
     }
 
     fun ahmet() {
