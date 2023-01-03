@@ -12,11 +12,22 @@ class MainActivity : AppCompatActivity() {
         ahmet()
     }
 
-    fun bark(){
+    fun bark() {
         Log.d(TAG, "woof! woof!")
+        //illede bark
     }
 
-    fun ahmet(){
+
+    fun ahmet() {
+        Log.e("illedebark", "illedebark")
+        //before pr commit 1
+        //after pr commit 2
+        //after pr commit 3
+        //before 1
+        //before 2
+        //after 1
+        //after 2
+
     }
 
     companion object {
