@@ -14,11 +14,11 @@ class MainActivity : AppCompatActivity() {
 
     fun bark(){
         Log.d(TAG, "woof! woof!")
+        //illede bark
     }
 
     fun ahmet(){
-
-
+        Log.e("illedebark", "illedebark")
     }
 
     companion object {
