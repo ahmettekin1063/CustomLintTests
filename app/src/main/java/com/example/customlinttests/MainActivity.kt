@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun ahmet(){
+
     }
 
     companion object {
